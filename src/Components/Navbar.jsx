@@ -14,7 +14,7 @@ const Navbar = () => {
         {/* Logo Section */}
         <Col>
           <div style={{ fontSize: '20px', fontWeight: 'bold', color: 'white' }}>
-            Genesis
+            Tausi 
           </div>
         </Col>
 
